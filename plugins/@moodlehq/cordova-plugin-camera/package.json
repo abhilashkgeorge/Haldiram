@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      "@moodlehq/cordova-plugin-camera@6.0.0-moodle.2",
+      "/Volumes/Development/Eduskills/E-Learning"
+    ]
+  ],
+  "_from": "@moodlehq/cordova-plugin-camera@6.0.0-moodle.2",
+  "_id": "@moodlehq/cordova-plugin-camera@6.0.0-moodle.2",
+  "_inBundle": false,
+  "_integrity": "sha512-uXkU/y85CZU4VB9dOss6WW08r0TPbSSsRf8qCG8l5onCy2x41EFWSipj3Mc7cJarbRMAaKjFIGvSt0k9yiFEQA==",
+  "_location": "/@moodlehq/cordova-plugin-camera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@moodlehq/cordova-plugin-camera@6.0.0-moodle.2",
+    "name": "@moodlehq/cordova-plugin-camera",
+    "escapedName": "@moodlehq%2fcordova-plugin-camera",
+    "scope": "@moodlehq",
+    "rawSpec": "6.0.0-moodle.2",
+    "saveSpec": null,
+    "fetchSpec": "6.0.0-moodle.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@moodlehq/cordova-plugin-camera/-/cordova-plugin-camera-6.0.0-moodle.2.tgz",
+  "_spec": "6.0.0-moodle.2",
+  "_where": "/Volumes/Development/Eduskills/E-Learning",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/moodlemobile/cordova-plugin-camera/issues"
+  },
+  "cordova": {
+    "id": "@moodlehq/cordova-plugin-camera",
+    "platforms": [
+      "android",
+      "ios",
+      "browser",
+      "windows",
+      "osx"
+    ]
+  },
+  "description": "Cordova Camera Plugin",
+  "devDependencies": {
+    "@cordova/eslint-config": "^3.0.0"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova-android": ">=6.3.0"
+      },
+      "4.1.0": {
+        "cordova": ">=7.1.0",
+        "cordova-android": ">=6.3.0"
+      },
+      "5.0.0": {
+        "cordova": ">=9.0.0",
+        "cordova-android": ">=9.0.0",
+        "cordova-ios": ">=5.1.0"
+      },
+      "5.0.4-dev": {
+        "cordova": ">=9.0.0",
+        "cordova-android": "<10.0.0",
+        "cordova-ios": ">=5.1.0"
+      },
+      "6.0.0": {
+        "cordova": ">=9.0.0",
+        "cordova-android": ">=10.0.0",
+        "cordova-ios": ">=5.1.0"
+      },
+      "7.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/moodlemobile/cordova-plugin-camera#readme",
+  "keywords": [
+    "cordova",
+    "camera",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "cordova-windows",
+    "cordova-osx"
+  ],
+  "license": "Apache-2.0",
+  "name": "@moodlehq/cordova-plugin-camera",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodlemobile/cordova-plugin-camera.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "6.0.0-moodle.2"
+}

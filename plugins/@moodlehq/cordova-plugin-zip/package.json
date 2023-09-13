@@ -1,0 +1,37 @@
+{
+  "name": "@moodlehq/cordova-plugin-zip",
+  "version": "3.1.0-moodle.1",
+  "description": "Moodle's fork of Cordova Plugin File",
+  "cordova": {
+    "id": "@moodlehq/cordova-plugin-zip",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moodlemobile/cordova-plugin-zip.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.3.0"
+    }
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/moodlemobile/zip/issues"
+  },
+  "homepage": "https://github.com/moodlemobile/zip"
+
+,"_resolved": "https://registry.npmjs.org/@moodlehq/cordova-plugin-zip/-/cordova-plugin-zip-3.1.0-moodle.1.tgz"
+,"_integrity": "sha512-QD5S6bsm6awJrNMb8YN/vkYghKAMfZMHccdimx6s1i5S9fgZUSf7L477NJqjFu62imVZYJIJuavBbw5fR/562w=="
+,"_from": "@moodlehq/cordova-plugin-zip@3.1.0-moodle.1"
+}

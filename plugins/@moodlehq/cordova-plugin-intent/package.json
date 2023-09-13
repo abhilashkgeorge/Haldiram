@@ -1,0 +1,27 @@
+{
+  "name": "@moodlehq/cordova-plugin-intent",
+  "version": "2.2.0-moodle.2",
+  "description": "Moodle's fork of a general purpose intent shim layer for cordova appliations on Android. Handles various techniques for sending and receiving intents.",
+  "main": "intentShim.js",
+  "cordova": {
+    "id": "@moodlehq/cordova-plugin-intent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moodlemobile/cordova-plugin-intent.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+	"cordova-android",
+    "Intent"
+  ],
+  "author": "Darryn Campbell",
+  "license": "MIT"
+
+,"_resolved": "https://registry.npmjs.org/@moodlehq/cordova-plugin-intent/-/cordova-plugin-intent-2.2.0-moodle.2.tgz"
+,"_integrity": "sha512-EXJz9KrkZfk64VUexC8kFrHn/TEbcJCbAuN9yaESSWY33hUDIcBnFxCdgUUU9qA+JUsWL4/gaGtLVdYsStTRIw=="
+,"_from": "@moodlehq/cordova-plugin-intent@2.2.0-moodle.2"
+}
